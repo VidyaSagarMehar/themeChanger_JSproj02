@@ -25,9 +25,10 @@ https://modechanger.netlify.app/
 
 
 ## Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/92782806/211472265-204e7ea3-0001-4837-abdd-88070bd76436.png)
+![Screenshot 2](https://user-images.githubusercontent.com/92782806/211472275-23c368dc-bdad-4bb3-a206-e29ab1c3b58f.png)
 
-![](./Screenshot%201.png)
-![](./Screenshot%202.png)
+
 
 
 ## Feedback
